@@ -110,8 +110,8 @@ class GameScene: SKScene {
         }
         // To create and shuffle an array of objects in order to pair them off for odd one out
         var objects = [""]
-        for i in 1...15 {
-            let current = "evo\(i)"
+        for i in 1...9 {
+            let current = "spaceShips_00\(i)"
             objects.append(current)
         }
         var shuffledObjects = objects.shuffled()
