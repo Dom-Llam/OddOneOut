@@ -39,7 +39,7 @@ class GameScene: SKScene {
     override func didMove(to view: SKView) {
         
         // To take care of the background
-        let background = SKSpriteNode(imageNamed: "background_1")
+        let background = SKSpriteNode(imageNamed: "space")
         background.name = "background"
         background.zPosition = -1
         background.size = self.size
@@ -62,7 +62,7 @@ class GameScene: SKScene {
         background.addChild(timeLabel)
         
         // And the same for the audio file
-        let music = SKAudioNode(fileNamed: "cool-vibes")
+        let music = SKAudioNode(fileNamed: "cyborg-ninja")
         background.addChild(music)
         
         // Call create grid to populate the screen with objects

@@ -18,6 +18,7 @@
 		F278AE0C25CB7C55006EDC71 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F278AE0B25CB7C55006EDC71 /* Constants.swift */; };
 		F278AE1425CC41EC006EDC71 /* cool-vibes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F278AE1325CC41EC006EDC71 /* cool-vibes.mp3 */; };
 		F278AE1725CC42B0006EDC71 /* wrong-3.wav in Resources */ = {isa = PBXBuildFile; fileRef = F278AE1625CC42B0006EDC71 /* wrong-3.wav */; };
+		F278AE2025CCE312006EDC71 /* cyborg-ninja.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F278AE1F25CCE312006EDC71 /* cyborg-ninja.mp3 */; };
 		F2D0891925C9D20000C3143A /* bonus.wav in Resources */ = {isa = PBXBuildFile; fileRef = F2D0891825C9D1FF00C3143A /* bonus.wav */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		F278AE0B25CB7C55006EDC71 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		F278AE1325CC41EC006EDC71 /* cool-vibes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cool-vibes.mp3"; sourceTree = "<group>"; };
 		F278AE1625CC42B0006EDC71 /* wrong-3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "wrong-3.wav"; sourceTree = "<group>"; };
+		F278AE1F25CCE312006EDC71 /* cyborg-ninja.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cyborg-ninja.mp3"; sourceTree = "<group>"; };
 		F2D0891825C9D1FF00C3143A /* bonus.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bonus.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -76,6 +78,7 @@
 				F2D0891825C9D1FF00C3143A /* bonus.wav */,
 				F278AE1625CC42B0006EDC71 /* wrong-3.wav */,
 				F278AE1325CC41EC006EDC71 /* cool-vibes.mp3 */,
+				F278AE1F25CCE312006EDC71 /* cyborg-ninja.mp3 */,
 				51C6E4CA1F951D59001794D5 /* Assets.xcassets */,
 				F278AE0B25CB7C55006EDC71 /* Constants.swift */,
 				51C6E4CC1F951D59001794D5 /* LaunchScreen.storyboard */,
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				51C6E4C91F951D59001794D5 /* Main.storyboard in Resources */,
+				F278AE2025CCE312006EDC71 /* cyborg-ninja.mp3 in Resources */,
 				F278AE1425CC41EC006EDC71 /* cool-vibes.mp3 in Resources */,
 				51C6E4C01F951D59001794D5 /* GameScene.sks in Resources */,
 				51C6E4CB1F951D59001794D5 /* Assets.xcassets in Resources */,
